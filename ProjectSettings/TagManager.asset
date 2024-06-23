@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Note
+  - GreenNote
+  - RedNote
+  - BlueNote
   layers:
   - Default
   - TransparentFX
