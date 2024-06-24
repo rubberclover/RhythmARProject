@@ -8,6 +8,12 @@ TagManager:
   - GreenNote
   - RedNote
   - BlueNote
+  - RedIni
+  - RedEnd
+  - BlueIni
+  - BlueEnd
+  - GreenIni
+  - GreenEnd
   layers:
   - Default
   - TransparentFX
