@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scene/MainScene.unity
+    path: Assets/Scene/MainMenu.unity
+    guid: 093b82a9eed334a2d97c092a4aab516e
+  - enabled: 1
+    path: Assets/Scene/U.N. Owen was her.unity
     guid: fa59163e5db0f194fb1b49a10d2874e4
   m_configObjects: {}
