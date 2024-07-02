@@ -945,6 +945,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   key: 101
+  firstMaterial: {fileID: 2100000, guid: 06549e12c76e4474d9bf69cf8b9e88d6, type: 2}
+  secondMaterial: {fileID: 2100000, guid: f67a25df509926d4e84a231c4d15722d, type: 2}
 --- !u!65 &495972510
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1612,6 +1614,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   key: 113
+  firstMaterial: {fileID: 2100000, guid: 31a87860a47032944b819b8734094a4e, type: 2}
+  secondMaterial: {fileID: 2100000, guid: 394c27754a1870d48908ef5fef5f92ab, type: 2}
 --- !u!1 &1283747518
 GameObject:
   m_ObjectHideFlags: 0
@@ -2353,6 +2357,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   key: 119
+  firstMaterial: {fileID: 2100000, guid: b6f9ded9a042a1449afa188292b8a649, type: 2}
+  secondMaterial: {fileID: 2100000, guid: 3080c8e4c22204840b92de9db8376acf, type: 2}
 --- !u!1 &1808561156
 GameObject:
   m_ObjectHideFlags: 0
