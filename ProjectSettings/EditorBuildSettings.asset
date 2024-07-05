@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/Septette for the Dead Princess.unity
     guid: cd58e79855a43b14cbfc8e020081b687
+  - enabled: 1
+    path: Assets/Scene/Beloved Tomboyish Girl.unity
+    guid: 86b619bd4fd17d24da1635791599dc54
   m_configObjects: {}
